@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stress test FI BroadPOS</string>
+    <string name="button_start">Start</string>
+    <string name="rounds">Enter test rounds</string>
+</resources>
